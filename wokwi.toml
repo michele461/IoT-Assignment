@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = ".pio/build/heltec_wifi_lora_32_V3/firmware.elf"
+elf = ".pio/build/heltec_wifi_lora_32_V3/firmware.elf"
