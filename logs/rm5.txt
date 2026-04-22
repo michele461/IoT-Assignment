@@ -1,0 +1,932 @@
+[LORA] TTN Join FAILED! Code: -1116. Retrying in 10 seconds...
+[LORA] Sending Join Request to TTN...
+[LORA] TTN Join FAILED! Code: -1116. Retrying in 10 seconds...
+[LORA] Sending Join Request to TTN...
+[LORA] TTN Join FAILED! Code: -1116. Retrying in 10 seconds...
+[LORA] Sending Join Request to TTN...
+[LORA] TTN Join FAILED! Code: -1116. Retrying in 10 seconds...
+[LORA] Sending Join Request to TTN...
+[LORA] TTN Join FAILED! Code: -1116. Retrying in 10 seconds...
+[LORA] Sending Join Request to TTN...
+[LORA] TTN Join FAILED! Code: -1116. Retrying in 10 seconds...
+[LORA] Sending Join Request to TTN...
+[LORA] TTN Join Success!
+[WIFI] Connecting to iPhone di Michele .. CONNECTED!
+
+>>> STARTING RUN_MODE 5 | PHASE 0 <<<
+
+[FFT] F_max: 5.47 Hz | ADAPTIVE ON: Delay -> 83ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 3
+Aggregated Mean: 0.02 | processed samples (volume of data): 174
+Filter Exec Time: 10 us per sample (per window execution time)
+[FILTER EVAL] TPR: 100.00% | FPR: 6.40%
+[ERROR EVAL] Pre: 0.30 | Post: 0.34 | Reduction: -15.39%
+[TX-WIFI] Sent: 0.02 | Bytes: 34 | E2E Latency: 276 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 3
+Aggregated Mean: 0.24 | processed samples (volume of data): 61
+Filter Exec Time: 5 us per sample (per window execution time)
+[FILTER EVAL] TPR: 100.00% | FPR: 6.01%
+[ERROR EVAL] Pre: 0.16 | Post: 0.36 | Reduction: -121.92%
+[TX-WIFI] Sent: 0.24 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 3
+Aggregated Mean: -0.18 | processed samples (volume of data): 61
+Filter Exec Time: 4 us per sample (per window execution time)
+[FILTER EVAL] TPR: 100.00% | FPR: 5.78%
+[ERROR EVAL] Pre: 0.16 | Post: 0.40 | Reduction: -150.14%
+[TX-WIFI] Sent: -0.18 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 3
+Aggregated Mean: 0.07 | processed samples (volume of data): 61
+Filter Exec Time: 7 us per sample (per window execution time)
+[FILTER EVAL] TPR: 100.00% | FPR: 6.20%
+[ERROR EVAL] Pre: 0.15 | Post: 0.71 | Reduction: -360.54%
+[TX-WIFI] Sent: 0.07 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 3
+Aggregated Mean: -0.01 | processed samples (volume of data): 61
+Filter Exec Time: 5 us per sample (per window execution time)
+[FILTER EVAL] TPR: 100.00% | FPR: 6.49%
+[ERROR EVAL] Pre: 0.15 | Post: 0.60 | Reduction: -298.18%
+[TX-WIFI] Sent: -0.01 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 3
+Aggregated Mean: -0.10 | processed samples (volume of data): 61
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 100.00% | FPR: 6.71%
+[ERROR EVAL] Pre: 0.16 | Post: 0.48 | Reduction: -203.09%
+[TX-WIFI] Sent: -0.10 | Bytes: 35 | E2E Latency: 23 ms
+[TX-LORA] Sending to TTN: -0.10 | Bytes: 5
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 3
+Aggregated Mean: -0.11 | processed samples (volume of data): 61
+Filter Exec Time: 6 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.67% | FPR: 6.52%
+[ERROR EVAL] Pre: 0.30 | Post: 0.52 | Reduction: -74.07%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: -0.11 | Bytes: 35 | E2E Latency: 1512 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 3
+Aggregated Mean: -0.10 | processed samples (volume of data): 61
+Filter Exec Time: 4 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.67% | FPR: 6.35%
+[ERROR EVAL] Pre: 0.16 | Post: 0.51 | Reduction: -223.76%
+[TX-WIFI] Sent: -0.10 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 3
+Aggregated Mean: 0.36 | processed samples (volume of data): 61
+Filter Exec Time: 5 us per sample (per window execution time)
+[FILTER EVAL] TPR: 50.00% | FPR: 6.53%
+[ERROR EVAL] Pre: 0.40 | Post: 0.88 | Reduction: -116.99%
+[TX-WIFI] Sent: 0.36 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 3
+Aggregated Mean: -0.23 | processed samples (volume of data): 61
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 40.00% | FPR: 7.10%
+[ERROR EVAL] Pre: 0.38 | Post: 0.81 | Reduction: -111.79%
+[TX-WIFI] Sent: -0.23 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 3
+Aggregated Mean: 0.48 | processed samples (volume of data): 61
+Filter Exec Time: 4 us per sample (per window execution time)
+[FILTER EVAL] TPR: 33.33% | FPR: 7.07%
+[ERROR EVAL] Pre: 0.33 | Post: 0.66 | Reduction: -101.76%
+[TX-WIFI] Sent: 0.48 | Bytes: 34 | E2E Latency: 23 ms
+
+>>> TRANSITION TO PHASE 1 <<<
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.02 | processed samples (volume of data): 108
+Filter Exec Time: 8 us per sample (per window execution time)
+[ERROR EVAL] Pre: 0.24 | Post: 0.58 | Reduction: -139.03%
+[TX-WIFI] Sent: -0.02 | Bytes: 35 | E2E Latency: 23 ms
+[TX-LORA] Sending to TTN: -0.02 | Bytes: 5
+[FFT] F_max: 6.25 Hz | ADAPTIVE ON: Delay -> 71ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.02 | processed samples (volume of data): 135
+Filter Exec Time: 9 us per sample (per window execution time)
+[FILTER EVAL] TPR: 100.00% | FPR: 10.05%
+[ERROR EVAL] Pre: 0.27 | Post: 0.43 | Reduction: -59.36%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: -0.02 | Bytes: 35 | E2E Latency: 1494 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.06 | processed samples (volume of data): 71
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 100.00% | FPR: 7.31%
+[ERROR EVAL] Pre: 0.19 | Post: 0.19 | Reduction: 0.00%
+[TX-WIFI] Sent: -0.06 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.03 | processed samples (volume of data): 71
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 100.00% | FPR: 5.74%
+[ERROR EVAL] Pre: 0.18 | Post: 0.18 | Reduction: 0.00%
+[TX-WIFI] Sent: -0.03 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.04 | processed samples (volume of data): 71
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 100.00% | FPR: 4.73%
+[ERROR EVAL] Pre: 0.16 | Post: 0.16 | Reduction: 0.00%
+[TX-WIFI] Sent: 0.04 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.02 | processed samples (volume of data): 71
+Filter Exec Time: 7 us per sample (per window execution time)
+[FILTER EVAL] TPR: 100.00% | FPR: 4.02%
+[ERROR EVAL] Pre: 0.15 | Post: 0.15 | Reduction: 0.00%
+[TX-WIFI] Sent: 0.02 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.02 | processed samples (volume of data): 71
+Filter Exec Time: 10 us per sample (per window execution time)
+[FILTER EVAL] TPR: 100.00% | FPR: 3.50%
+[ERROR EVAL] Pre: 0.24 | Post: 0.18 | Reduction: 23.27%
+[TX-WIFI] Sent: 0.02 | Bytes: 34 | E2E Latency: 23 ms
+[TX-LORA] Sending to TTN: 0.02 | Bytes: 4
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.15 | processed samples (volume of data): 71
+Filter Exec Time: 13 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.67% | FPR: 3.10%
+[ERROR EVAL] Pre: 0.26 | Post: 0.26 | Reduction: 0.00%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: -0.15 | Bytes: 35 | E2E Latency: 1534 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.02 | processed samples (volume of data): 71
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.67% | FPR: 2.78%
+[ERROR EVAL] Pre: 0.16 | Post: 0.16 | Reduction: 0.00%
+[TX-WIFI] Sent: 0.02 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.00 | processed samples (volume of data): 71
+Filter Exec Time: 9 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.67% | FPR: 2.52%
+[ERROR EVAL] Pre: 0.15 | Post: 0.15 | Reduction: 0.00%
+[TX-WIFI] Sent: 0.00 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.04 | processed samples (volume of data): 71
+Filter Exec Time: 7 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.67% | FPR: 2.30%
+[ERROR EVAL] Pre: 0.14 | Post: 0.14 | Reduction: 0.00%
+[TX-WIFI] Sent: -0.04 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.09 | processed samples (volume of data): 71
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.67% | FPR: 2.12%
+[ERROR EVAL] Pre: 0.16 | Post: 0.16 | Reduction: 0.00%
+[TX-WIFI] Sent: -0.09 | Bytes: 35 | E2E Latency: 23 ms
+
+>>> TRANSITION TO PHASE 2 <<<
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 15
+Aggregated Mean: 0.16 | processed samples (volume of data): 161
+Filter Exec Time: 23 us per sample (per window execution time)
+[ERROR EVAL] Pre: 0.29 | Post: 0.48 | Reduction: -65.09%
+[TX-WIFI] Sent: 0.16 | Bytes: 34 | E2E Latency: 23 ms
+[TX-LORA] Sending to TTN: 0.16 | Bytes: 4
+[FFT] F_max: 5.47 Hz | ADAPTIVE ON: Delay -> 83ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 15
+Aggregated Mean: -0.15 | processed samples (volume of data): 81
+Filter Exec Time: 23 us per sample (per window execution time)
+[FILTER EVAL] TPR: 0.00% | FPR: 4.30%
+[ERROR EVAL] Pre: 0.34 | Post: 0.41 | Reduction: -21.21%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: -0.15 | Bytes: 35 | E2E Latency: 1522 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 15
+Aggregated Mean: 0.09 | processed samples (volume of data): 61
+Filter Exec Time: 24 us per sample (per window execution time)
+[FILTER EVAL] TPR: 0.00% | FPR: 3.24%
+[ERROR EVAL] Pre: 0.14 | Post: 0.14 | Reduction: 0.00%
+[TX-WIFI] Sent: 0.09 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 15
+Aggregated Mean: 0.04 | processed samples (volume of data): 61
+Filter Exec Time: 23 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.67% | FPR: 2.61%
+[ERROR EVAL] Pre: 0.53 | Post: 0.22 | Reduction: 58.21%
+[TX-WIFI] Sent: 0.04 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 15
+Aggregated Mean: -0.12 | processed samples (volume of data): 61
+Filter Exec Time: 22 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.67% | FPR: 2.47%
+[ERROR EVAL] Pre: 0.66 | Post: 0.50 | Reduction: 25.16%
+[TX-WIFI] Sent: -0.12 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 15
+Aggregated Mean: -0.01 | processed samples (volume of data): 61
+Filter Exec Time: 23 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.67% | FPR: 2.12%
+[ERROR EVAL] Pre: 0.16 | Post: 0.16 | Reduction: 0.00%
+[TX-WIFI] Sent: -0.01 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 15
+Aggregated Mean: -0.08 | processed samples (volume of data): 61
+Filter Exec Time: 24 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.67% | FPR: 1.85%
+[ERROR EVAL] Pre: 0.20 | Post: 0.20 | Reduction: 0.00%
+[TX-WIFI] Sent: -0.08 | Bytes: 35 | E2E Latency: 23 ms
+[TX-LORA] Sending to TTN: -0.08 | Bytes: 5
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 15
+Aggregated Mean: -0.02 | processed samples (volume of data): 61
+Filter Exec Time: 23 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.67% | FPR: 1.65%
+[ERROR EVAL] Pre: 0.17 | Post: 0.17 | Reduction: 0.00%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: -0.02 | Bytes: 35 | E2E Latency: 1512 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 15
+Aggregated Mean: 0.13 | processed samples (volume of data): 61
+Filter Exec Time: 24 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.67% | FPR: 1.48%
+[ERROR EVAL] Pre: 0.16 | Post: 0.16 | Reduction: 0.00%
+[TX-WIFI] Sent: 0.13 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 15
+Aggregated Mean: -0.01 | processed samples (volume of data): 61
+Filter Exec Time: 23 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.67% | FPR: 1.35%
+[ERROR EVAL] Pre: 0.17 | Post: 0.17 | Reduction: 0.00%
+[TX-WIFI] Sent: -0.01 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 15
+Aggregated Mean: -0.03 | processed samples (volume of data): 61
+Filter Exec Time: 23 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.67% | FPR: 1.23%
+[ERROR EVAL] Pre: 0.15 | Post: 0.15 | Reduction: 0.00%
+[TX-WIFI] Sent: -0.03 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.01 | Win: 15
+Aggregated Mean: -0.21 | processed samples (volume of data): 61
+Filter Exec Time: 26 us per sample (per window execution time)
+[FILTER EVAL] TPR: 62.50% | FPR: 1.14%
+[ERROR EVAL] Pre: 0.54 | Post: 0.40 | Reduction: 26.36%
+[TX-WIFI] Sent: -0.21 | Bytes: 35 | E2E Latency: 23 ms
+
+>>> TRANSITION TO PHASE 3 <<<
+
+[FFT] F_max: 5.47 Hz | ADAPTIVE ON: Delay -> 83ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 3
+Aggregated Mean: -0.05 | processed samples (volume of data): 174
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 83.33% | FPR: 3.88%
+[ERROR EVAL] Pre: 0.50 | Post: 0.32 | Reduction: 35.16%
+[TX-WIFI] Sent: -0.05 | Bytes: 35 | E2E Latency: 23 ms
+[TX-LORA] Sending to TTN: -0.05 | Bytes: 5
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 3
+Aggregated Mean: 0.27 | processed samples (volume of data): 61
+Filter Exec Time: 6 us per sample (per window execution time)
+[FILTER EVAL] TPR: 71.43% | FPR: 7.41%
+[ERROR EVAL] Pre: 0.33 | Post: 0.94 | Reduction: -187.42%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: 0.27 | Bytes: 34 | E2E Latency: 1513 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 3
+Aggregated Mean: -0.38 | processed samples (volume of data): 61
+Filter Exec Time: 4 us per sample (per window execution time)
+[FILTER EVAL] TPR: 55.56% | FPR: 6.05%
+[ERROR EVAL] Pre: 0.56 | Post: 0.63 | Reduction: -13.30%
+[TX-WIFI] Sent: -0.38 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 3
+Aggregated Mean: 0.39 | processed samples (volume of data): 61
+Filter Exec Time: 4 us per sample (per window execution time)
+[FILTER EVAL] TPR: 38.46% | FPR: 6.23%
+[ERROR EVAL] Pre: 0.57 | Post: 0.85 | Reduction: -48.78%
+[TX-WIFI] Sent: 0.39 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 3
+Aggregated Mean: -0.09 | processed samples (volume of data): 61
+Filter Exec Time: 5 us per sample (per window execution time)
+[FILTER EVAL] TPR: 31.58% | FPR: 6.11%
+[ERROR EVAL] Pre: 1.13 | Post: 1.42 | Reduction: -26.60%
+[TX-WIFI] Sent: -0.09 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 3
+Aggregated Mean: 0.54 | processed samples (volume of data): 61
+Filter Exec Time: 21 us per sample (per window execution time)
+[FILTER EVAL] TPR: 39.13% | FPR: 6.24%
+[ERROR EVAL] Pre: 0.91 | Post: 1.05 | Reduction: -15.17%
+[TX-WIFI] Sent: 0.54 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 3
+Aggregated Mean: 0.01 | processed samples (volume of data): 61
+Filter Exec Time: 4 us per sample (per window execution time)
+[FILTER EVAL] TPR: 39.13% | FPR: 5.86%
+[ERROR EVAL] Pre: 0.17 | Post: 0.20 | Reduction: -14.49%
+[TX-WIFI] Sent: 0.01 | Bytes: 34 | E2E Latency: 23 ms
+[TX-LORA] Sending to TTN: 0.01 | Bytes: 4
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 3
+Aggregated Mean: -0.23 | processed samples (volume of data): 61
+Filter Exec Time: 22 us per sample (per window execution time)
+[FILTER EVAL] TPR: 34.62% | FPR: 5.97%
+[ERROR EVAL] Pre: 0.68 | Post: 0.98 | Reduction: -43.62%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: -0.23 | Bytes: 35 | E2E Latency: 1513 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 3
+Aggregated Mean: -0.13 | processed samples (volume of data): 61
+Filter Exec Time: 5 us per sample (per window execution time)
+[FILTER EVAL] TPR: 34.62% | FPR: 6.53%
+[ERROR EVAL] Pre: 0.19 | Post: 0.99 | Reduction: -410.67%
+[TX-WIFI] Sent: -0.13 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 3
+Aggregated Mean: 0.56 | processed samples (volume of data): 61
+Filter Exec Time: 4 us per sample (per window execution time)
+[FILTER EVAL] TPR: 30.00% | FPR: 6.57%
+[ERROR EVAL] Pre: 0.74 | Post: 1.12 | Reduction: -51.04%
+[TX-WIFI] Sent: 0.56 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 3
+Aggregated Mean: 0.41 | processed samples (volume of data): 61
+Filter Exec Time: 5 us per sample (per window execution time)
+[FILTER EVAL] TPR: 30.56% | FPR: 6.63%
+[ERROR EVAL] Pre: 1.20 | Post: 0.95 | Reduction: 20.95%
+[TX-WIFI] Sent: 0.41 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 3
+Aggregated Mean: -0.14 | processed samples (volume of data): 61
+Filter Exec Time: 6 us per sample (per window execution time)
+[FILTER EVAL] TPR: 28.21% | FPR: 6.52%
+[ERROR EVAL] Pre: 0.67 | Post: 0.91 | Reduction: -36.79%
+[TX-WIFI] Sent: -0.14 | Bytes: 35 | E2E Latency: 23 ms
+
+>>> TRANSITION TO PHASE 4 <<<
+
+[FFT] F_max: 43.75 Hz | ADAPTIVE ON: Delay -> 11ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 7
+Aggregated Mean: 0.01 | processed samples (volume of data): 266
+Filter Exec Time: 7 us per sample (per window execution time)
+[FILTER EVAL] TPR: 46.67% | FPR: 13.57%
+[ERROR EVAL] Pre: 0.70 | Post: 0.80 | Reduction: -13.97%
+[TX-WIFI] Sent: 0.01 | Bytes: 34 | E2E Latency: 23 ms
+[TX-LORA] Sending to TTN: 0.01 | Bytes: 4
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 7
+Aggregated Mean: -0.11 | processed samples (volume of data): 457
+Filter Exec Time: 7 us per sample (per window execution time)
+[FILTER EVAL] TPR: 57.89% | FPR: 10.69%
+[ERROR EVAL] Pre: 0.63 | Post: 0.62 | Reduction: 1.57%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: -0.11 | Bytes: 35 | E2E Latency: 1549 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 7
+Aggregated Mean: 0.02 | processed samples (volume of data): 457
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 67.19% | FPR: 9.67%
+[ERROR EVAL] Pre: 0.73 | Post: 0.57 | Reduction: 21.99%
+[TX-WIFI] Sent: 0.02 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 7
+Aggregated Mean: -0.16 | processed samples (volume of data): 457
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 67.03% | FPR: 9.70%
+[ERROR EVAL] Pre: 0.78 | Post: 0.70 | Reduction: 9.71%
+[TX-WIFI] Sent: -0.16 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 7
+Aggregated Mean: -0.03 | processed samples (volume of data): 457
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 64.22% | FPR: 9.10%
+[ERROR EVAL] Pre: 0.54 | Post: 0.58 | Reduction: -6.13%
+[TX-WIFI] Sent: -0.03 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 7
+Aggregated Mean: -0.18 | processed samples (volume of data): 457
+Filter Exec Time: 7 us per sample (per window execution time)
+[FILTER EVAL] TPR: 63.97% | FPR: 8.72%
+[ERROR EVAL] Pre: 0.74 | Post: 0.66 | Reduction: 11.49%
+[TX-WIFI] Sent: -0.18 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 7
+Aggregated Mean: -0.08 | processed samples (volume of data): 457
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 65.38% | FPR: 8.86%
+[ERROR EVAL] Pre: 0.59 | Post: 0.60 | Reduction: -0.84%
+[TX-WIFI] Sent: -0.08 | Bytes: 35 | E2E Latency: 24 ms
+[TX-LORA] Sending to TTN: -0.08 | Bytes: 5
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 7
+Aggregated Mean: -0.08 | processed samples (volume of data): 457
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 65.05% | FPR: 8.71%
+[ERROR EVAL] Pre: 0.82 | Post: 0.71 | Reduction: 13.84%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: -0.08 | Bytes: 35 | E2E Latency: 1550 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 7
+Aggregated Mean: 0.07 | processed samples (volume of data): 457
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 65.66% | FPR: 8.72%
+[ERROR EVAL] Pre: 0.46 | Post: 0.55 | Reduction: -19.87%
+[TX-WIFI] Sent: 0.07 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 7
+Aggregated Mean: 0.00 | processed samples (volume of data): 457
+Filter Exec Time: 9 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.82% | FPR: 8.75%
+[ERROR EVAL] Pre: 0.53 | Post: 0.53 | Reduction: -1.02%
+[TX-WIFI] Sent: 0.00 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 7
+Aggregated Mean: -0.02 | processed samples (volume of data): 457
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 67.92% | FPR: 8.69%
+[ERROR EVAL] Pre: 0.75 | Post: 0.58 | Reduction: 22.78%
+[TX-WIFI] Sent: -0.02 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 7
+Aggregated Mean: 0.07 | processed samples (volume of data): 457
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 68.60% | FPR: 8.69%
+[ERROR EVAL] Pre: 0.57 | Post: 0.55 | Reduction: 2.54%
+[TX-WIFI] Sent: 0.07 | Bytes: 34 | E2E Latency: 23 ms
+
+>>> TRANSITION TO PHASE 5 <<<
+
+[FFT] F_max: 5.47 Hz | ADAPTIVE ON: Delay -> 83ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 15
+Aggregated Mean: 0.06 | processed samples (volume of data): 345
+Filter Exec Time: 27 us per sample (per window execution time)
+[FILTER EVAL] TPR: 55.56% | FPR: 5.04%
+[ERROR EVAL] Pre: 0.76 | Post: 0.78 | Reduction: -1.99%
+[TX-WIFI] Sent: 0.06 | Bytes: 34 | E2E Latency: 23 ms
+[TX-LORA] Sending to TTN: 0.06 | Bytes: 4
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 15
+Aggregated Mean: -0.04 | processed samples (volume of data): 61
+Filter Exec Time: 23 us per sample (per window execution time)
+[FILTER EVAL] TPR: 50.00% | FPR: 3.55%
+[ERROR EVAL] Pre: 0.63 | Post: 0.44 | Reduction: 29.31%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: -0.04 | Bytes: 35 | E2E Latency: 1512 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 15
+Aggregated Mean: 0.01 | processed samples (volume of data): 61
+Filter Exec Time: 23 us per sample (per window execution time)
+[FILTER EVAL] TPR: 33.33% | FPR: 2.78%
+[ERROR EVAL] Pre: 1.13 | Post: 1.13 | Reduction: 0.00%
+[TX-WIFI] Sent: 0.01 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 15
+Aggregated Mean: 0.14 | processed samples (volume of data): 61
+Filter Exec Time: 23 us per sample (per window execution time)
+[FILTER EVAL] TPR: 36.36% | FPR: 2.27%
+[ERROR EVAL] Pre: 0.80 | Post: 0.57 | Reduction: 28.77%
+[TX-WIFI] Sent: 0.14 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 15
+Aggregated Mean: -0.10 | processed samples (volume of data): 61
+Filter Exec Time: 24 us per sample (per window execution time)
+[FILTER EVAL] TPR: 50.00% | FPR: 2.21%
+[ERROR EVAL] Pre: 1.30 | Post: 0.65 | Reduction: 50.02%
+[TX-WIFI] Sent: -0.10 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 15
+Aggregated Mean: 0.30 | processed samples (volume of data): 61
+Filter Exec Time: 23 us per sample (per window execution time)
+[FILTER EVAL] TPR: 44.12% | FPR: 1.91%
+[ERROR EVAL] Pre: 0.79 | Post: 0.79 | Reduction: 0.00%
+[TX-WIFI] Sent: 0.30 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 15
+Aggregated Mean: -0.66 | processed samples (volume of data): 61
+Filter Exec Time: 22 us per sample (per window execution time)
+[FILTER EVAL] TPR: 41.03% | FPR: 1.68%
+[ERROR EVAL] Pre: 1.02 | Post: 0.87 | Reduction: 14.42%
+[TX-WIFI] Sent: -0.66 | Bytes: 35 | E2E Latency: 23 ms
+[TX-LORA] Sending to TTN: -0.66 | Bytes: 5
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 15
+Aggregated Mean: 0.22 | processed samples (volume of data): 61
+Filter Exec Time: 41 us per sample (per window execution time)
+[FILTER EVAL] TPR: 41.46% | FPR: 1.50%
+[ERROR EVAL] Pre: 0.35 | Post: 0.34 | Reduction: 2.02%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: 0.22 | Bytes: 34 | E2E Latency: 1512 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 15
+Aggregated Mean: -0.04 | processed samples (volume of data): 61
+Filter Exec Time: 23 us per sample (per window execution time)
+[FILTER EVAL] TPR: 42.86% | FPR: 1.85%
+[ERROR EVAL] Pre: 0.37 | Post: 0.51 | Reduction: -36.39%
+[TX-WIFI] Sent: -0.04 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 15
+Aggregated Mean: 0.40 | processed samples (volume of data): 61
+Filter Exec Time: 23 us per sample (per window execution time)
+[FILTER EVAL] TPR: 39.13% | FPR: 1.69%
+[ERROR EVAL] Pre: 0.77 | Post: 0.77 | Reduction: 0.00%
+[TX-WIFI] Sent: 0.40 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 15
+Aggregated Mean: 0.40 | processed samples (volume of data): 61
+Filter Exec Time: 23 us per sample (per window execution time)
+[FILTER EVAL] TPR: 40.00% | FPR: 1.55%
+[ERROR EVAL] Pre: 0.96 | Post: 0.65 | Reduction: 32.63%
+[TX-WIFI] Sent: 0.40 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.05 | Win: 15
+Aggregated Mean: 0.02 | processed samples (volume of data): 61
+Filter Exec Time: 24 us per sample (per window execution time)
+[FILTER EVAL] TPR: 40.00% | FPR: 1.43%
+[ERROR EVAL] Pre: 0.14 | Post: 0.14 | Reduction: 0.00%
+[TX-WIFI] Sent: 0.02 | Bytes: 34 | E2E Latency: 23 ms
+
+>>> TRANSITION TO PHASE 6 <<<
+
+[FFT] F_max: 5.47 Hz | ADAPTIVE ON: Delay -> 83ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 3
+Aggregated Mean: -0.01 | processed samples (volume of data): 174
+Filter Exec Time: 21 us per sample (per window execution time)
+[FILTER EVAL] TPR: 81.82% | FPR: 6.90%
+[ERROR EVAL] Pre: 1.07 | Post: 0.79 | Reduction: 25.70%
+[TX-WIFI] Sent: -0.01 | Bytes: 35 | E2E Latency: 23 ms
+[TX-LORA] Sending to TTN: -0.01 | Bytes: 5
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 3
+Aggregated Mean: -0.04 | processed samples (volume of data): 61
+Filter Exec Time: 5 us per sample (per window execution time)
+[FILTER EVAL] TPR: 55.56% | FPR: 6.03%
+[ERROR EVAL] Pre: 0.87 | Post: 0.73 | Reduction: 15.89%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: -0.04 | Bytes: 35 | E2E Latency: 1512 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 3
+Aggregated Mean: -0.30 | processed samples (volume of data): 61
+Filter Exec Time: 4 us per sample (per window execution time)
+[FILTER EVAL] TPR: 53.85% | FPR: 6.35%
+[ERROR EVAL] Pre: 0.96 | Post: 0.96 | Reduction: 0.00%
+[TX-WIFI] Sent: -0.30 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 3
+Aggregated Mean: -0.28 | processed samples (volume of data): 61
+Filter Exec Time: 22 us per sample (per window execution time)
+[FILTER EVAL] TPR: 45.71% | FPR: 6.25%
+[ERROR EVAL] Pre: 1.05 | Post: 0.80 | Reduction: 24.19%
+[TX-WIFI] Sent: -0.28 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 3
+Aggregated Mean: 0.29 | processed samples (volume of data): 61
+Filter Exec Time: 4 us per sample (per window execution time)
+[FILTER EVAL] TPR: 40.00% | FPR: 6.11%
+[ERROR EVAL] Pre: 0.68 | Post: 0.51 | Reduction: 24.41%
+[TX-WIFI] Sent: 0.29 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 3
+Aggregated Mean: -0.23 | processed samples (volume of data): 61
+Filter Exec Time: 22 us per sample (per window execution time)
+[FILTER EVAL] TPR: 34.78% | FPR: 6.27%
+[ERROR EVAL] Pre: 0.55 | Post: 0.55 | Reduction: 0.00%
+[TX-WIFI] Sent: -0.23 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 3
+Aggregated Mean: -0.29 | processed samples (volume of data): 61
+Filter Exec Time: 4 us per sample (per window execution time)
+[FILTER EVAL] TPR: 34.00% | FPR: 6.57%
+[ERROR EVAL] Pre: 0.81 | Post: 0.80 | Reduction: 0.88%
+[TX-WIFI] Sent: -0.29 | Bytes: 35 | E2E Latency: 23 ms
+[TX-LORA] Sending to TTN: -0.29 | Bytes: 5
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 3
+Aggregated Mean: 0.01 | processed samples (volume of data): 61
+Filter Exec Time: 21 us per sample (per window execution time)
+[FILTER EVAL] TPR: 31.48% | FPR: 6.24%
+[ERROR EVAL] Pre: 1.33 | Post: 1.33 | Reduction: 0.00%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: 0.01 | Bytes: 34 | E2E Latency: 1511 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 3
+Aggregated Mean: -0.34 | processed samples (volume of data): 61
+Filter Exec Time: 19 us per sample (per window execution time)
+[FILTER EVAL] TPR: 28.81% | FPR: 5.81%
+[ERROR EVAL] Pre: 1.36 | Post: 1.05 | Reduction: 23.09%
+[TX-WIFI] Sent: -0.34 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 3
+Aggregated Mean: -0.25 | processed samples (volume of data): 61
+Filter Exec Time: 5 us per sample (per window execution time)
+[FILTER EVAL] TPR: 26.56% | FPR: 5.93%
+[ERROR EVAL] Pre: 0.70 | Post: 0.42 | Reduction: 40.75%
+[TX-WIFI] Sent: -0.25 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 3
+Aggregated Mean: -0.59 | processed samples (volume of data): 61
+Filter Exec Time: 4 us per sample (per window execution time)
+[FILTER EVAL] TPR: 26.39% | FPR: 6.34%
+[ERROR EVAL] Pre: 1.55 | Post: 0.84 | Reduction: 45.91%
+[TX-WIFI] Sent: -0.59 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 3
+Aggregated Mean: -0.52 | processed samples (volume of data): 61
+Filter Exec Time: 5 us per sample (per window execution time)
+[FILTER EVAL] TPR: 24.10% | FPR: 6.18%
+[ERROR EVAL] Pre: 1.92 | Post: 1.94 | Reduction: -1.41%
+[TX-WIFI] Sent: -0.52 | Bytes: 35 | E2E Latency: 23 ms
+
+>>> TRANSITION TO PHASE 7 <<<
+
+[FFT] F_max: 49.22 Hz | ADAPTIVE ON: Delay -> 10ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 7
+Aggregated Mean: 0.14 | processed samples (volume of data): 430
+Filter Exec Time: 9 us per sample (per window execution time)
+[FILTER EVAL] TPR: 51.28% | FPR: 7.85%
+[ERROR EVAL] Pre: 0.93 | Post: 0.81 | Reduction: 13.37%
+[TX-WIFI] Sent: 0.14 | Bytes: 34 | E2E Latency: 23 ms
+[TX-LORA] Sending to TTN: 0.14 | Bytes: 4
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 7
+Aggregated Mean: 0.01 | processed samples (volume of data): 503
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 56.73% | FPR: 7.56%
+[ERROR EVAL] Pre: 1.33 | Post: 0.95 | Reduction: 28.51%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: 0.01 | Bytes: 34 | E2E Latency: 1545 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 7
+Aggregated Mean: 0.04 | processed samples (volume of data): 503
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 65.25% | FPR: 8.09%
+[ERROR EVAL] Pre: 0.93 | Post: 0.58 | Reduction: 36.82%
+[TX-WIFI] Sent: 0.04 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 7
+Aggregated Mean: -0.09 | processed samples (volume of data): 503
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 64.77% | FPR: 7.83%
+[ERROR EVAL] Pre: 1.22 | Post: 0.83 | Reduction: 31.66%
+[TX-WIFI] Sent: -0.09 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 7
+Aggregated Mean: -0.02 | processed samples (volume of data): 503
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 63.35% | FPR: 7.06%
+[ERROR EVAL] Pre: 1.26 | Post: 0.75 | Reduction: 40.59%
+[TX-WIFI] Sent: -0.02 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 7
+Aggregated Mean: -0.02 | processed samples (volume of data): 503
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 64.04% | FPR: 7.49%
+[ERROR EVAL] Pre: 0.97 | Post: 0.72 | Reduction: 26.26%
+[TX-WIFI] Sent: -0.02 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 7
+Aggregated Mean: 0.09 | processed samples (volume of data): 503
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.27% | FPR: 7.42%
+[ERROR EVAL] Pre: 1.07 | Post: 0.62 | Reduction: 42.07%
+[TX-WIFI] Sent: 0.09 | Bytes: 34 | E2E Latency: 23 ms
+[TX-LORA] Sending to TTN: 0.09 | Bytes: 4
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 7
+Aggregated Mean: 0.03 | processed samples (volume of data): 503
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 67.98% | FPR: 7.25%
+[ERROR EVAL] Pre: 0.97 | Post: 0.56 | Reduction: 42.45%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: 0.03 | Bytes: 34 | E2E Latency: 1546 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 7
+Aggregated Mean: 0.02 | processed samples (volume of data): 503
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 68.78% | FPR: 7.54%
+[ERROR EVAL] Pre: 0.98 | Post: 0.69 | Reduction: 30.07%
+[TX-WIFI] Sent: 0.02 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 7
+Aggregated Mean: -0.11 | processed samples (volume of data): 503
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 69.08% | FPR: 7.50%
+[ERROR EVAL] Pre: 0.96 | Post: 0.65 | Reduction: 32.49%
+[TX-WIFI] Sent: -0.11 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 7
+Aggregated Mean: -0.09 | processed samples (volume of data): 503
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 69.48% | FPR: 7.38%
+[ERROR EVAL] Pre: 1.23 | Post: 0.75 | Reduction: 39.20%
+[TX-WIFI] Sent: -0.09 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 7
+Aggregated Mean: 0.03 | processed samples (volume of data): 503
+Filter Exec Time: 8 us per sample (per window execution time)
+[FILTER EVAL] TPR: 69.74% | FPR: 7.29%
+[ERROR EVAL] Pre: 1.26 | Post: 0.72 | Reduction: 43.06%
+[TX-WIFI] Sent: 0.03 | Bytes: 34 | E2E Latency: 23 ms
+
+>>> TRANSITION TO PHASE 8 <<<
+
+[FFT] F_max: 6.25 Hz | ADAPTIVE ON: Delay -> 71ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 15
+Aggregated Mean: -0.12 | processed samples (volume of data): 216
+Filter Exec Time: 25 us per sample (per window execution time)
+[FILTER EVAL] TPR: 66.67% | FPR: 3.14%
+[ERROR EVAL] Pre: 0.74 | Post: 0.50 | Reduction: 32.71%
+[TX-WIFI] Sent: -0.12 | Bytes: 35 | E2E Latency: 23 ms
+[TX-LORA] Sending to TTN: -0.12 | Bytes: 5
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 15
+Aggregated Mean: 0.46 | processed samples (volume of data): 71
+Filter Exec Time: 26 us per sample (per window execution time)
+[FILTER EVAL] TPR: 56.52% | FPR: 2.22%
+[ERROR EVAL] Pre: 1.52 | Post: 1.52 | Reduction: 0.03%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: 0.46 | Bytes: 34 | E2E Latency: 1534 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 15
+Aggregated Mean: -0.38 | processed samples (volume of data): 71
+Filter Exec Time: 24 us per sample (per window execution time)
+[FILTER EVAL] TPR: 43.33% | FPR: 1.73%
+[ERROR EVAL] Pre: 1.55 | Post: 1.21 | Reduction: 22.01%
+[TX-WIFI] Sent: -0.38 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 15
+Aggregated Mean: 0.03 | processed samples (volume of data): 71
+Filter Exec Time: 23 us per sample (per window execution time)
+[FILTER EVAL] TPR: 39.47% | FPR: 1.42%
+[ERROR EVAL] Pre: 1.27 | Post: 1.37 | Reduction: -7.52%
+[TX-WIFI] Sent: 0.03 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 15
+Aggregated Mean: -0.24 | processed samples (volume of data): 71
+Filter Exec Time: 23 us per sample (per window execution time)
+[FILTER EVAL] TPR: 38.10% | FPR: 1.19%
+[ERROR EVAL] Pre: 0.91 | Post: 1.23 | Reduction: -35.61%
+[TX-WIFI] Sent: -0.24 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 15
+Aggregated Mean: -0.44 | processed samples (volume of data): 71
+Filter Exec Time: 39 us per sample (per window execution time)
+[FILTER EVAL] TPR: 34.78% | FPR: 1.03%
+[ERROR EVAL] Pre: 1.07 | Post: 1.53 | Reduction: -43.13%
+[TX-WIFI] Sent: -0.44 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 15
+Aggregated Mean: -0.48 | processed samples (volume of data): 71
+Filter Exec Time: 23 us per sample (per window execution time)
+[FILTER EVAL] TPR: 32.69% | FPR: 0.91%
+[ERROR EVAL] Pre: 0.64 | Post: 0.77 | Reduction: -18.97%
+[TX-WIFI] Sent: -0.48 | Bytes: 35 | E2E Latency: 23 ms
+[TX-LORA] Sending to TTN: -0.48 | Bytes: 5
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 15
+Aggregated Mean: 0.25 | processed samples (volume of data): 71
+Filter Exec Time: 24 us per sample (per window execution time)
+[FILTER EVAL] TPR: 27.87% | FPR: 0.82%
+[ERROR EVAL] Pre: 0.74 | Post: 0.90 | Reduction: -21.18%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: 0.25 | Bytes: 34 | E2E Latency: 1534 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 15
+Aggregated Mean: 0.33 | processed samples (volume of data): 71
+Filter Exec Time: 22 us per sample (per window execution time)
+[FILTER EVAL] TPR: 28.99% | FPR: 0.74%
+[ERROR EVAL] Pre: 0.93 | Post: 1.03 | Reduction: -10.79%
+[TX-WIFI] Sent: 0.33 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 15
+Aggregated Mean: -0.24 | processed samples (volume of data): 71
+Filter Exec Time: 37 us per sample (per window execution time)
+[FILTER EVAL] TPR: 30.14% | FPR: 0.67%
+[ERROR EVAL] Pre: 0.81 | Post: 1.26 | Reduction: -56.57%
+[TX-WIFI] Sent: -0.24 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 2 | Prob: 0.10 | Win: 15
+Aggregated Mean: -0.39 | processed samples (volume of data): 71
+Filter Exec Time: 23 us per sample (per window execution time)
+[FILTER EVAL] TPR: 32.93% | FPR: 0.62%
+[ERROR EVAL] Pre: 1.44 | Post: 1.72 | Reduction: -19.61%
+[TX-WIFI] Sent: -0.39 | Bytes: 35 | E2E Latency: 23 ms
+
+================================================
+*** END OF RUN MODE 5 - TEST COMPLETED ***
+================================================

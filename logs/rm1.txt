@@ -1,0 +1,244 @@
+====================================
+SYSTEM BOOT! Serial connection established.
+====================================
+
+[LORA] Starting in OTAA Mode...
+[LORA] Sending Join Request to TTN...
+[LORA] TTN Join Success!
+[WIFI] Connecting to iPhone di Michele .................... FAILED!
+
+>>> STARTING RUN_MODE 1 | PHASE 0 <<<
+
+[FFT] F_max: 5.47 Hz | ADAPTIVE OFF: Delay locked at 10ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.01 | processed samples (volume of data): 501
+Filter Exec Time: 2 us per sample (per window execution time)
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.01 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: -0.01 | Bytes: 35 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.01 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: -0.01 | Bytes: 35 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.00 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: -0.00 | Bytes: 35 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.01 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: 0.01 | Bytes: 34 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.02 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: 0.02 | Bytes: 34 | E2E Latency: 13 ms
+[TX-LORA] Sending to TTN: 0.02 | Bytes: 4
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.02 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[LORA] Transmit Success!
+[TX-WIFI] Sent: 0.02 | Bytes: 34 | E2E Latency: 758 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.02 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: 0.02 | Bytes: 34 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.01 | processed samples (volume of data): 502
+Filter Exec Time: 1 us per sample (per window execution time)
+[TX-WIFI] Sent: 0.01 | Bytes: 34 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.00 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: -0.00 | Bytes: 35 | E2E Latency: 12 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.01 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: -0.01 | Bytes: 35 | E2E Latency: 12 ms
+
+>>> TRANSITION TO PHASE 1 <<<
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 2 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.10 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: -0.10 | Bytes: 35 | E2E Latency: 12 ms
+[TX-LORA] Sending to TTN: -0.10 | Bytes: 5
+
+[FFT] F_max: 10.16 Hz | ADAPTIVE OFF: Delay locked at 10ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 2 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.00 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[LORA] Transmit Success!
+[TX-WIFI] Sent: 0.00 | Bytes: 34 | E2E Latency: 759 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 2 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.01 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: 0.01 | Bytes: 34 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 2 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.01 | processed samples (volume of data): 502
+Filter Exec Time: 1 us per sample (per window execution time)
+[TX-WIFI] Sent: 0.01 | Bytes: 34 | E2E Latency: 12 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 2 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.02 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: 0.02 | Bytes: 34 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 2 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.01 | processed samples (volume of data): 502
+Filter Exec Time: 1 us per sample (per window execution time)
+[TX-WIFI] Sent: 0.01 | Bytes: 34 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 2 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.01 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: 0.01 | Bytes: 34 | E2E Latency: 13 ms
+[TX-LORA] Sending to TTN: 0.01 | Bytes: 4
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 2 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.00 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[LORA] Transmit Success!
+[TX-WIFI] Sent: 0.00 | Bytes: 34 | E2E Latency: 768 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 2 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.01 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: 0.01 | Bytes: 34 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 2 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.01 | processed samples (volume of data): 502
+Filter Exec Time: 1 us per sample (per window execution time)
+[TX-WIFI] Sent: 0.01 | Bytes: 34 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 2 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.00 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: 0.00 | Bytes: 34 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 2 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.01 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: -0.01 | Bytes: 35 | E2E Latency: 13 ms
+
+>>> TRANSITION TO PHASE 2 <<<
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 3 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.06 | processed samples (volume of data): 502
+Filter Exec Time: 1 us per sample (per window execution time)
+[TX-WIFI] Sent: -0.06 | Bytes: 35 | E2E Latency: 13 ms
+[TX-LORA] Sending to TTN: -0.06 | Bytes: 5
+
+[FFT] F_max: 4.69 Hz | ADAPTIVE OFF: Delay locked at 10ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 3 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.02 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[LORA] Transmit Success!
+[TX-WIFI] Sent: 0.02 | Bytes: 34 | E2E Latency: 758 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 3 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.02 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: 0.02 | Bytes: 34 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 3 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.01 | processed samples (volume of data): 502
+Filter Exec Time: 1 us per sample (per window execution time)
+[TX-WIFI] Sent: 0.01 | Bytes: 34 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 3 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.01 | processed samples (volume of data): 502
+Filter Exec Time: 1 us per sample (per window execution time)
+[TX-WIFI] Sent: 0.01 | Bytes: 34 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 3 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.00 | processed samples (volume of data): 502
+Filter Exec Time: 1 us per sample (per window execution time)
+[TX-WIFI] Sent: -0.00 | Bytes: 35 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 3 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.01 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: -0.01 | Bytes: 35 | E2E Latency: 13 ms
+[TX-LORA] Sending to TTN: -0.01 | Bytes: 5
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 3 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.02 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[LORA] Transmit Success!
+[TX-WIFI] Sent: -0.02 | Bytes: 35 | E2E Latency: 759 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 3 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.02 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: -0.02 | Bytes: 35 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 3 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.02 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: -0.02 | Bytes: 35 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 3 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: -0.01 | processed samples (volume of data): 502
+Filter Exec Time: 2 us per sample (per window execution time)
+[TX-WIFI] Sent: -0.01 | Bytes: 35 | E2E Latency: 13 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 3 | Adaptive: NO | Noise: NO | Filter: 0 | Prob: 0.01 | Win: 7
+Aggregated Mean: 0.00 | processed samples (volume of data): 502
+Filter Exec Time: 1 us per sample (per window execution time)
+[TX-WIFI] Sent: 0.00 | Bytes: 34 | E2E Latency: 13 ms
+
+================================================
+*** END OF RUN MODE 1 - TEST COMPLETED ***
+================================================
+

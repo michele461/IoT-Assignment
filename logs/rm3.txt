@@ -1,0 +1,90 @@
+[LORA] TTN Join Success!
+[WIFI] Connecting to iPhone di Michele . CONNECTED!
+
+>>> STARTING RUN_MODE 3 | PHASE 0 <<<
+
+[FFT] F_max: 47.66 Hz | ADAPTIVE ON: Delay -> 10ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 0 | Prob: 0.05 | Win: 7
+Aggregated Mean: -0.11 | processed samples (volume of data): 501
+Filter Exec Time: 1 us per sample (per window execution time)
+[ERROR EVAL] Pre: 0.37 | Post: 0.37 | Reduction: 0.00%
+[TX-WIFI] Sent: -0.11 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 0 | Prob: 0.05 | Win: 7
+Aggregated Mean: -0.01 | processed samples (volume of data): 503
+Filter Exec Time: 2 us per sample (per window execution time)
+[ERROR EVAL] Pre: 0.78 | Post: 0.78 | Reduction: 0.00%
+[TX-WIFI] Sent: -0.01 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 0 | Prob: 0.05 | Win: 7
+Aggregated Mean: 0.03 | processed samples (volume of data): 503
+Filter Exec Time: 2 us per sample (per window execution time)
+[ERROR EVAL] Pre: 0.60 | Post: 0.60 | Reduction: 0.00%
+[TX-WIFI] Sent: 0.03 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 0 | Prob: 0.05 | Win: 7
+Aggregated Mean: 0.13 | processed samples (volume of data): 503
+Filter Exec Time: 2 us per sample (per window execution time)
+[ERROR EVAL] Pre: 0.65 | Post: 0.65 | Reduction: 0.00%
+[TX-WIFI] Sent: 0.13 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 0 | Prob: 0.05 | Win: 7
+Aggregated Mean: -0.09 | processed samples (volume of data): 503
+Filter Exec Time: 2 us per sample (per window execution time)
+[ERROR EVAL] Pre: 0.72 | Post: 0.72 | Reduction: 0.00%
+[TX-WIFI] Sent: -0.09 | Bytes: 35 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 0 | Prob: 0.05 | Win: 7
+Aggregated Mean: -0.18 | processed samples (volume of data): 503
+Filter Exec Time: 1 us per sample (per window execution time)
+[ERROR EVAL] Pre: 0.69 | Post: 0.69 | Reduction: 0.00%
+[TX-WIFI] Sent: -0.18 | Bytes: 35 | E2E Latency: 23 ms
+[TX-LORA] Sending to TTN: -0.18 | Bytes: 5
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 0 | Prob: 0.05 | Win: 7
+Aggregated Mean: 0.11 | processed samples (volume of data): 503
+Filter Exec Time: 2 us per sample (per window execution time)
+[ERROR EVAL] Pre: 0.68 | Post: 0.68 | Reduction: 0.00%
+[LORA] Transmit Success!
+[TX-WIFI] Sent: 0.11 | Bytes: 34 | E2E Latency: 749 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 0 | Prob: 0.05 | Win: 7
+Aggregated Mean: 0.09 | processed samples (volume of data): 503
+Filter Exec Time: 2 us per sample (per window execution time)
+[ERROR EVAL] Pre: 0.70 | Post: 0.70 | Reduction: 0.00%
+[TX-WIFI] Sent: 0.09 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 0 | Prob: 0.05 | Win: 7
+Aggregated Mean: 0.05 | processed samples (volume of data): 503
+Filter Exec Time: 2 us per sample (per window execution time)
+[ERROR EVAL] Pre: 0.62 | Post: 0.62 | Reduction: 0.00%
+[TX-WIFI] Sent: 0.05 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 0 | Prob: 0.05 | Win: 7
+Aggregated Mean: 0.02 | processed samples (volume of data): 503
+Filter Exec Time: 2 us per sample (per window execution time)
+[ERROR EVAL] Pre: 0.78 | Post: 0.78 | Reduction: 0.00%
+[TX-WIFI] Sent: 0.02 | Bytes: 34 | E2E Latency: 23 ms
+
+=== 5s WINDOW REPORT ===
+[PARAMS] Sig: 1 | Adaptive: YES | Noise: YES | Filter: 0 | Prob: 0.05 | Win: 7
+Aggregated Mean: -0.14 | processed samples (volume of data): 503
+Filter Exec Time: 5 us per sample (per window execution time)
+[ERROR EVAL] Pre: 0.58 | Post: 0.58 | Reduction: 0.00%
+[TX-WIFI] Sent: -0.14 | Bytes: 35 | E2E Latency: 23 ms
+
+================================================
+*** END OF RUN MODE 3 - TEST COMPLETED ***
+================================================
+

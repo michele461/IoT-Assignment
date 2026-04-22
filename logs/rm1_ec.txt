@@ -1,0 +1,243 @@
+--- POWER MONITOR START ---
+INA219 Connected.
+
+=============================
+Average Power   (Last 5s): 437.45 mW
+Average Current (Last 5s): 118.23 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 409.52 mW
+Average Current (Last 5s): 110.68 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 408.07 mW
+Average Current (Last 5s): 110.29 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.81 mW
+Average Current (Last 5s): 110.22 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.41 mW
+Average Current (Last 5s): 110.11 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.81 mW
+Average Current (Last 5s): 110.22 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 437.34 mW
+Average Current (Last 5s): 118.20 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 408.89 mW
+Average Current (Last 5s): 110.51 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.30 mW
+Average Current (Last 5s): 110.08 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.48 mW
+Average Current (Last 5s): 110.13 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.52 mW
+Average Current (Last 5s): 110.14 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.93 mW
+Average Current (Last 5s): 110.25 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 437.04 mW
+Average Current (Last 5s): 118.12 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 409.07 mW
+Average Current (Last 5s): 110.56 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.22 mW
+Average Current (Last 5s): 110.06 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.11 mW
+Average Current (Last 5s): 110.03 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 406.33 mW
+Average Current (Last 5s): 109.82 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 406.78 mW
+Average Current (Last 5s): 109.94 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 436.34 mW
+Average Current (Last 5s): 117.93 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 408.44 mW
+Average Current (Last 5s): 110.39 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 406.93 mW
+Average Current (Last 5s): 109.98 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 406.59 mW
+Average Current (Last 5s): 109.89 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.67 mW
+Average Current (Last 5s): 110.18 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.07 mW
+Average Current (Last 5s): 110.02 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 436.49 mW
+Average Current (Last 5s): 117.97 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 409.70 mW
+Average Current (Last 5s): 110.73 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.63 mW
+Average Current (Last 5s): 110.17 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 408.04 mW
+Average Current (Last 5s): 110.28 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.22 mW
+Average Current (Last 5s): 110.06 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 406.89 mW
+Average Current (Last 5s): 109.97 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.81 mW
+Average Current (Last 5s): 110.22 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 408.41 mW
+Average Current (Last 5s): 110.38 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 406.15 mW
+Average Current (Last 5s): 109.77 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.15 mW
+Average Current (Last 5s): 110.04 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 406.82 mW
+Average Current (Last 5s): 109.95 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 406.70 mW
+Average Current (Last 5s): 109.92 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.00 mW
+Average Current (Last 5s): 110.00 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 406.41 mW
+Average Current (Last 5s): 109.84 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.04 mW
+Average Current (Last 5s): 110.01 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.22 mW
+Average Current (Last 5s): 110.06 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.11 mW
+Average Current (Last 5s): 110.03 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.11 mW
+Average Current (Last 5s): 110.03 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 406.82 mW
+Average Current (Last 5s): 109.95 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.11 mW
+Average Current (Last 5s): 110.03 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.30 mW
+Average Current (Last 5s): 110.08 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.41 mW
+Average Current (Last 5s): 110.11 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.85 mW
+Average Current (Last 5s): 110.23 mA
+=============================
+
+=============================
+Average Power   (Last 5s): 407.37 mW
+Average Current (Last 5s): 110.10 mA
+=============================
+
