@@ -10,7 +10,6 @@ The firmware is developed using **FreeRTOS**, a real-time operating system that 
 ### Folder Structure
 The project follows the standard PlatformIO structure:
 * `.pio/` and `.vscode/`: Build and development environment configuration folders.
-* `include/`: Custom header files (if any).
 * `src/`: Contains the source code (`main_node.cpp` and `power_monitor.cpp`).
 * `logs/`: Folder containing all log files extracted from the tests (e.g., `rm1.txt` for the MQTT/LoRa reports of Run Mode 1, `rm1_ec.txt` for the Energy Consumption measurements of Run Mode 1, and so on for all 5 modes).
 * `.gitignore`: hide .vscode and .pio repositories.
