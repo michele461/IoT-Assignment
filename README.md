@@ -13,8 +13,8 @@ The project follows the standard PlatformIO structure:
 * `src/`: Contains the source code (`main_node.cpp` and `power_monitor.cpp`).
 * `logs/`: Folder containing all log files extracted from the tests (e.g., `rm1.txt` for the MQTT/LoRa reports of Run Mode 1, `rm1_ec.txt` for the Energy Consumption measurements of Run Mode 1, and so on for all 5 modes).
 * `.gitignore`: hide .vscode and .pio repositories.
-* `platformio.ini`
-* `README.md`: contains all the libraries and specifics for both the two environments (main_node and power_monitor).
+* `platformio.ini`: contains all the libraries and specifics for both the two environments (main_node and power_monitor).
+* `README.md`
 
 # 2. Code Architecture
 
