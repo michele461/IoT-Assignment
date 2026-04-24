@@ -47,6 +47,8 @@ The code runs on the target ESP32-S3 and is divided into 3 FreeRTOS tasks.
 
 ### Part 1: Baseline vs Adaptive Sampling (Non-Bonus)
 Comparison performed on **Signal 1** $2\sin(2\pi3t)+4\sin(2\pi5t)$.
+The maximum sampling frequency of my device, using the standard analogRead() function is ~1600 Hz. 
+I performed oversampling at a baseline of 100 Hz.
 
 * **Baseline / oversampling (Run Mode 1):** samples blindly at the defined assignment baseline frequency (100 Hz), without analyzing the informational content.
     * *Energy consumption:* ~407 mW average.
